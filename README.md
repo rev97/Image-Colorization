@@ -9,11 +9,11 @@
 
 Python regressor.py <path_to_images_folder> <name_of_annotations_file.csv>
 
-* 3.Colorization:
+## Colorization:
 
-python Colorizer.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
+* python Colorizer.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
 
-Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
+** Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
 
 * 4.GPU Computing:
 
