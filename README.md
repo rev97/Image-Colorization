@@ -32,4 +32,3 @@ Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be nam
 python Transfer_learning.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
 
 Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
-![image](https://github.com/rev97/Image-Colorization/assets/89413538/4475e631-cce3-4b97-a476-0936f090cfe4)
