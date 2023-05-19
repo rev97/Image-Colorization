@@ -1,12 +1,11 @@
 # Image-Colorization
-# How to run the files:
 
-* 1.Loading the dataset:
-Open the terminal and run the following command:
+## Loading the dataset:
+* Open the terminal and run the following command:
 
-python data_preprocessing.py <path_to_images_folder> <name_of_annotations_file.csv>
+* python data_preprocessing.py <path_to_images_folder> <name_of_annotations_file.csv>
 
-* 2.Regressor:
+## Regressor:
 
 Python regressor.py <path_to_images_folder> <name_of_annotations_file.csv>
 
