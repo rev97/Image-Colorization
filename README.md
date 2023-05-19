@@ -7,7 +7,7 @@
 
 ## Regressor:
 
-Python regressor.py <path_to_images_folder> <name_of_annotations_file.csv>
+* Python regressor.py <path_to_images_folder> <name_of_annotations_file.csv>
 
 ## Colorization:
 
