@@ -13,21 +13,21 @@ Python regressor.py <path_to_images_folder> <name_of_annotations_file.csv>
 
 * python Colorizer.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
 
-** Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
+* Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
 
-* 4.GPU Computing:
+## GPU Computing:
 
-python GPU_computing.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
+* python GPU_computing.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
 
-Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
+* Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
 
-* 5.Tuning:
+## Tuning:
 
-python Hyperparameter_tuning.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
+* python Hyperparameter_tuning.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
 
-Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
+* Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
 
+## Transfer Learning:
+* python Transfer_learning.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
 
-python Transfer_learning.py <path_to_images_folder> <name_of_trainingdata_file.csv> <name_of_testingdatafile.csv>
-
-Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
+* Note: <name_of_trainingdata_file.csv>, <name_of_testingdata_file.csv> can be named as user’s choice
